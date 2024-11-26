@@ -1,5 +1,5 @@
-# [Project Name] - Unity VR Application
-Description of your VR application and its main purpose
+# Desaturation VR Training - Unity VR Application
+A Virtual Reality based medical training application for desaturation scenarios.
 
 ## System Requirements
 - Unity Version: 2022.3.8f1
@@ -16,7 +16,7 @@ Description of your VR application and its main purpose
   - OpenXR Plugin
 
 ## Download
-Due to file size limitations on GitHub, the standalone software (>100MB) is available through external links:
+Due to file size limitations on GitHub, the standalone software is available through OneDrive:
 
 ### Standalone Build
 - [Download Standalone VR Application (Android APK)](https://1drv.ms/u/s!Arq-JhppjNaold59Q9e37FUA6jSAmA?e=ifiR6E)
@@ -33,43 +33,38 @@ Due to file size limitations on GitHub, the standalone software (>100MB) is avai
  
 ## Installation Guide
 1. Prerequisites
-   - Unity [2022.3.8f1] installation
-   - Required VR SDK setup
+   - Meta Quest 2, 3, or Pro headset
+   - SideQuest installed on your PC
+   - USB cable for connecting Quest to PC
    
-2. Project Setup
-   ```
-   1. Clone this repository
-   2. Open Unity Hub
-   3. Add project from disk
-   4. Select the cloned repository folder
-   ```
+2. Installation Steps
+   Follow the installation guide at: [SideQuest Installation Guide](https://sidequestvr.com/space/142/p/94800/install-apk)
 
-3. Estimated Installation Time: [X] minutes on a standard desktop computer
+3. Estimated Installation Time: 1-2 minutes
 
 ## Demo
-### Instructions to Run Demo Scene
-1. Open the project in Unity
-2. Load the demo scene from `Assets/Scenes/Demo.unity`
-3. [Additional setup steps if required]
+### Instructions to Run Demo
+1. Put on your VR headset
+2. From your Quest library, locate and launch the application
+3. Follow the on-screen instructions
 
 ### Expected Output
-- Description of what users should expect to see
-- Screenshots or GIFs of key features
-- Expected VR interactions
+- You will be immersed in a VR medical training environment
+- Note: Some users may experience motion sickness or discomfort
+- If you feel uncomfortable, you may stop the experience at any time
+- Take breaks as needed and proceed at your own pace
 
 ### Expected Run Time
-- Demo runtime: [X] minutes on a standard desktop computer
+- Demo runtime: 5-10 minutes
 
 ## Instructions for Use
-### Running with Your Own Data
-1. Detailed steps for importing/preparing user data
-2. Configuration instructions
-3. Runtime instructions
+1. Launch the application in your VR headset
+2. Select your desired training scenario
+3. Complete the tutorial section
+4. Proceed with the selected scenario
 
-### Reproduction Instructions
-1. Steps to reproduce the results
-2. Data collection methodology
-3. Analysis procedures
+Note: Users can take breaks or stop the training at any point if needed.
+
 
 ## Project Structure
 ```
